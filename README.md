@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JelaniMK
 - 👀 I’m interested in Prompt Engineering and Data Analytics
 - 🌱 I’m currently learning Python and perfecting my prompts
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on building small apps with other beginners
 - 📫 How to reach me leepjelani@gmail.com
 - 😄 Pronouns: ahe/her
 - ⚡ Fun fact: I love cooking and doing karaoke
